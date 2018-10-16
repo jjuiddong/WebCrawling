@@ -30,9 +30,19 @@ Project
 	- CaptureAndRecog
 		- Chrome Screen Capture And Rocognition Text with Tesseract, C++
 
-	- TessOcr
-		- Tesseract, Screen Capture Library Project
+
+	- WebCrawl
+		- WebCrawling Library Project
+			- Tesseract
+			- Screen Capture
+			- Keyboard Event
+
 
 	- ContinueRecog
 		- Continuous Capture And Text Recognition Project
 	
+
+	- ContinueRecog2
+		- Continuous Capture And Text Recognition Project
+		- Chorme moving tab
+		

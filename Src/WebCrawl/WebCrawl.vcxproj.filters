@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="capture.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="tess.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="webcrawl.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="keybot.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="utility.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="capture.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="tess.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="keybot.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="utility.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="lib">
+      <UniqueIdentifier>{d6a2c6d8-4eb9-46b2-8952-e37d6adefe6f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
