@@ -11,4 +11,8 @@
 #include "capture.h"
 
 
-#pragma comment(lib, "tesseract40d.lib")
+#ifdef _DEBUG
+	#pragma comment(lib, "tesseract40d.lib")
+#else
+	#pragma comment(lib, "tesseract40.lib")
+#endif
