@@ -18,6 +18,9 @@
     <ClInclude Include="utility.h">
       <Filter>lib</Filter>
     </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>lib</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp" />
@@ -31,6 +34,9 @@
       <Filter>lib</Filter>
     </ClCompile>
     <ClCompile Include="utility.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="config.cpp">
       <Filter>lib</Filter>
     </ClCompile>
   </ItemGroup>
