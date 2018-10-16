@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="capture.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="tess.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="tessocr.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="capture.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+    <ClCompile Include="tess.cpp">
+      <Filter>lib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="lib">
+      <UniqueIdentifier>{c7e975ae-ca56-4924-b244-7e034521b408}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
