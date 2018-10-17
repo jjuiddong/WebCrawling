@@ -1,12 +1,36 @@
 {
 
   "crawl-interval-seconds": "100",
-  "name-rect": "10 362 400 419",
-  "stock-rect": "58 485 439 575",
-  "offset-y": "200",
+  "name-rect": "10 370 400 419",
+  "stock-rect": "170 485 439 543",
+  "offset-y": "205",
   "wait-site-loading-seconds": "5",
 
   "sites": [
+    {
+      "url": "https://www.investing.com/equities/microsoft-corp",
+      "name": "Microsoft Corporation"
+    },
+    {
+      "url": "https://www.investing.com/commodities/brent-oil",
+      "name": "Brent Oil Futures"
+    },
+    {
+      "url": "https://www.investing.com/indices/us-30",
+      "name": "Dow Jones Industrial"
+    },
+    {
+      "url": "https://www.investing.com/equities/hyundai-motor",
+      "name": "Hyundai Moto"
+    },
+    {
+      "url": "https://www.investing.com/equities/kia-motors",
+      "name": "KIA Motors"
+    },
+    {
+      "url": "https://www.investing.com/crypto/bitcoin-gold/btg-krw",
+      "name": "Bitcoin Gold"
+    },
     {
       "url": "https://www.investing.com/equities/amazon-com-inc",
       "name": "Amazon.com Inc (AMZN)"
@@ -22,6 +46,10 @@
     {
       "url": "https://www.investing.com/equities/facebook-inc",
       "name": "Facebook Inc"
+    },
+    {
+      "url": "https://www.investing.com/equities/tilray-inc",
+      "name": "Tilray Inc"
     },
     {
       "url": "https://www.investing.com/equities/netflix,-inc.",

@@ -30,6 +30,6 @@ void cKeyBot::KeyDown(char key)
 void cKeyBot::KeyClick(char key)
 {
 	KeyDown(key);
-	Sleep(20);
+	Sleep(30);
 	KeyUp(key);
 }

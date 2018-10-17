@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebCrawl", "WebCrawl\WebCra
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContinueRecog2", "ContinueRecog2\ContinueRecog2.vcxproj", "{1151AC6E-DEB1-4C9D-88AC-0F42671FE984}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateMatch", "TemplateMatch\TemplateMatch.vcxproj", "{71A1D119-16F5-4303-9610-F1F29353E604}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug_MD|x64 = Debug_MD|x64
@@ -237,6 +239,26 @@ Global
 		{1151AC6E-DEB1-4C9D-88AC-0F42671FE984}.Release|x64.Build.0 = Release|x64
 		{1151AC6E-DEB1-4C9D-88AC-0F42671FE984}.Release|x86.ActiveCfg = Release|Win32
 		{1151AC6E-DEB1-4C9D-88AC-0F42671FE984}.Release|x86.Build.0 = Release|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug_MD|x64.ActiveCfg = Debug|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug_MD|x64.Build.0 = Debug|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug_MD|x86.ActiveCfg = Debug|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug_MD|x86.Build.0 = Debug|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug_MT|x64.ActiveCfg = Debug|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug_MT|x64.Build.0 = Debug|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug_MT|x86.ActiveCfg = Debug|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug_MT|x86.Build.0 = Debug|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug|x64.ActiveCfg = Debug|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug|x64.Build.0 = Debug|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug|x86.ActiveCfg = Debug|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Debug|x86.Build.0 = Debug|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Release_MD|x64.ActiveCfg = Release|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Release_MD|x64.Build.0 = Release|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Release_MD|x86.ActiveCfg = Release|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Release_MD|x86.Build.0 = Release|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Release|x64.ActiveCfg = Release|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Release|x64.Build.0 = Release|x64
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Release|x86.ActiveCfg = Release|Win32
+		{71A1D119-16F5-4303-9610-F1F29353E604}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
