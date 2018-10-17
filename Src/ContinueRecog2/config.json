@@ -1,0 +1,32 @@
+{
+
+  "crawl-interval-seconds": "100",
+  "name-rect": "10 362 400 419",
+  "stock-rect": "58 485 439 575",
+  "offset-y": "200",
+  "wait-site-loading-seconds": "5",
+
+  "sites": [
+    {
+      "url": "https://www.investing.com/equities/amazon-com-inc",
+      "name": "Amazon.com Inc (AMZN)"
+    },
+    {
+      "url": "https://www.investing.com/equities/apple-computer-inc",
+      "name": "Apple Inc"
+    },
+    {
+      "url": "https://www.investing.com/equities/tesla-motors",
+      "name": "Tesla Inc"
+    },
+    {
+      "url": "https://www.investing.com/equities/facebook-inc",
+      "name": "Facebook Inc"
+    },
+    {
+      "url": "https://www.investing.com/equities/netflix,-inc.",
+      "name": "Netflix Inc (NFLX)"
+    }
+  ]
+
+}

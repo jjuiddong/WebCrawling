@@ -1,4 +1,11 @@
 
+ToDo:
+	-★ 진행률 출력
+	-★ excel 저장	
+	-★ stock만 parsing	
+	-★ chorme 없으면 띄우기
+
+
 Project
 
 	- TesseractTest
@@ -45,4 +52,4 @@ Project
 	- ContinueRecog2
 		- Continuous Capture And Text Recognition Project
 		- Chorme moving tab
-		
+	

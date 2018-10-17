@@ -6,10 +6,17 @@
 
 #include <windows.h>
 #include <tesseract/baseapi.h>
+#include <string>
+#include <vector>
+
+using std::string;
+using std::vector;
+
 
 #include "tess.h"
 #include "capture.h"
 #include "keybot.h"
+#include "config.h"
 #include "utility.h"
 
 
