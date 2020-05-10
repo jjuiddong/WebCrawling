@@ -10,7 +10,7 @@ web crawling using VS2017 C++, Tesseract, OpenCV
 	- WebBrowser Sample Code, MFC
 	- Problem JavaScript Error, not complete
 
-- WebBrowser
+- WebBrowser2
 	- WebBrowser Sample Code with wxWidgets
 	- Problem JavaScript Error, not complete
 
